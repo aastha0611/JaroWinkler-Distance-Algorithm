@@ -1,5 +1,5 @@
 {
-    "name": "saahil/jaro-winkler-distance-php",
+    "name": "aastha/jaro-winkler-distance-php",
     "description": "JaroWinklerDistance algorithm implementation using php",
     "license": "MIT",
     "authors": [
